@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi, I'm Francesc Contreras
 
-<!--
-**elskater98/elskater98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/francesc-contreras-perez-0a5911179/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="miangame" height="28px" width="28px" />
+  </a>
 
-Here are some ideas to get you started:
+### A little more about me
+```js
+const elskater98 = {
+    code: ['Typescript','Javascript','Python', 'Java','Dart','C', 'C#'],
+    architecture: ['Clean-code', '3-Layer','TDD'],
+    technologies: {
+        frontEnd: {
+            js: ['React.js', 'Vue.js'],
+            ts:['Angular']
+        },
+        backEnd: {
+            python: ['Django'],
+            js: ['Express'],
+            ts:['NestJS'],
+            java:['Spring']
+        },
+        mobile:['Flutter'],
+        devOps: ['Heroku', 'Docker🐳'],
+        databases: ['Postgres', 'Microsoft SQL Server', 'MongoDB'],
+        misc: ['Git', 'CI/CD'],
+        testing:['Unit Test','End-To-End']
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stats
+![Francesc Contreras Stats](https://github-readme-stats.vercel.app/api?username=elskater98&show_icons=true&hide_border=true&hide=issues&count_private=true)
