@@ -31,3 +31,5 @@ const elskater98 = {
 
 ### My Stats
 ![Francesc Contreras Stats](https://github-readme-stats.vercel.app/api?username=elskater98&show_icons=true&hide_border=true&hide=issues&count_private=true)
+![Francesc Contreras Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elskater98&layout=compact&theme=algolia%22%20alt=%22Github%20Top%20Languages%22%20/)
+
