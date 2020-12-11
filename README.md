@@ -8,7 +8,6 @@
 ```js
 const elskater98 = {
     code: ['Typescript','Javascript','Python', 'Java','Dart','C', 'C#'],
-    architecture: ['Clean-code', '3-Layer','TDD'],
     technologies: {
         frontEnd: {
             js: ['React.js', 'Vue.js'],
@@ -22,7 +21,7 @@ const elskater98 = {
         },
         mobile:['Flutter'],
         devOps: ['Heroku', 'Docker🐳'],
-        databases: ['Postgres', 'Microsoft SQL Server', 'MongoDB'],
+        databases: ['PostgreSQL', 'Microsoft SQL Server', 'MongoDB'],
         misc: ['Git', 'CI/CD'],
         testing:['Unit Test','End-To-End']
     }
