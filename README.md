@@ -19,8 +19,8 @@ const elskater98 = {
             ts:['NestJS'],
             java:['Spring']
         },
-        mobile:['Flutter'],
-        devOps: ['Heroku', 'Docker🐳'],
+        mobile:['Flutter','Ionic'],
+        devOps: ['Heroku', 'Docker🐳'Nginx],
         databases: ['PostgreSQL', 'Microsoft SQL Server', 'MongoDB'],
         misc: ['Git', 'CI/CD'],
         testing:['Unit Test','End-To-End']
