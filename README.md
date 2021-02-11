@@ -21,7 +21,7 @@ const elskater98 = {
         },
         mobile:['Flutter','Ionic'],
         devOps: ['Heroku', 'Nginx', 'Docker🐳'],
-        databases: ['PostgreSQL', 'Microsoft SQL Server', 'MongoDB'],
+        databases: ['PostgreSQL', 'MySQL','MariaDB', 'Microsoft SQL Server', 'MongoDB'],
         misc: ['Git', 'CI/CD'],
         testing:['Unit Test','End-To-End']
     }
