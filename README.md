@@ -20,7 +20,7 @@ const elskater98 = {
             java:['Spring']
         },
         mobile:['Flutter','Ionic'],
-        devOps: ['Heroku', 'Nginx', 'Docker🐳'],
+        devOps: ['Heroku', 'Nginx', 'Docker🐳','Kubernetes'],
         databases: ['PostgreSQL', 'MySQL','MariaDB', 'Microsoft SQL Server', 'MongoDB','Neo4j'],
         misc: ['Git', 'CI/CD'],
         testing:['Unit Test','End-To-End']
