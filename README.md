@@ -14,7 +14,7 @@ const elskater98 = {
             ts:['Angular']
         },
         backEnd: {
-            python: ['Django'],
+            python: ['Django','Flask'],
             js: ['Express'],
             ts:['NestJS'],
             java:['Spring']
